@@ -1,5 +1,5 @@
 {
-    "name": "Serial Debug",
+    "name": "SerialDebug",
     "keywords": "debug, Serial",
     "description": "Arduino Library for serial debugging",
     "repository":
@@ -17,7 +17,7 @@
       
     ],
 
-    "version": "1.0.1",
+    "version": "1.0.3",
     "frameworks": "arduino",
     "platforms": "atmelavr,espressif8266,espressif32"
   }
